@@ -1,2 +1,2 @@
-# jhsghw_map_and_chart
+# jhsgw_data
 JHSGW.org dataset, google map and bokeh charts
