@@ -24,9 +24,31 @@
         </style>
     </head>
     <body>
+      
         
-<IMG SRC="DC_demo_bokeh_plot.png" ALT="Demographic change in DC line chart">
+        
+<canvas id="line"></canvas>
 
+<script>
+
+    var width  = 960;
+    var height = 500;
+    var canvas = document.getElementById('line');
+    var ctx = canvas.getContext("2d");
+    canvas.width  = width;
+    canvas.height = height;
+
+    var image = new Image();
+    image.src= "jhsgw_data/DC_demo_bokeh_plot.png";
+
+    image.onload = function() {
+         ctx.drawImage(image, 0, 0);
+         console.log("done");
+    }
+
+</script>
+        
+        
         
         <div class="bk-root">
             <div class="plotdiv" id="fba8f8bd-c5b2-44d8-93aa-dd500096db10"></div>
