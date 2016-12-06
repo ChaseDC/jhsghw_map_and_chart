@@ -6,6 +6,6 @@ Python code to scrape JHSGW.org online catalog and build charts in Bokeh. Here's
 Final article <a href="https://chasedc.github.io/jhsgw_data/">here</a>
 
 <b> Data</b>
-<a href="https://matthewbgilmore.wordpress.com/district-of-columbia-population-history/">Matthew B Gilmore's DC demographics data</a>
-<a href="https://www.jhsgw.org/">Jewish Historical Society of Greater Washington</a>
-<a href="http://www.jewishdatabank.org/studies/details.cfm?StudyID=469">The Jewish Population of Greater Washington in 1956</a>
+<p><a href="https://matthewbgilmore.wordpress.com/district-of-columbia-population-history/">Matthew B Gilmore's DC demographics data</a>
+<p><a href="https://www.jhsgw.org/">Jewish Historical Society of Greater Washington</a>
+<p><a href="http://www.jewishdatabank.org/studies/details.cfm?StudyID=469">The Jewish Population of Greater Washington in 1956</a>
